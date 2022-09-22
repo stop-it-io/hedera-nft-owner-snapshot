@@ -1,6 +1,7 @@
 
 /*==================== CREATED BY STOP-IT.IO ==================== */
 /*================== GIVEN TO HEDERA COMMUNITY ================== */
+/*=== https://github.com/stop-it-io/hedera-nft-owner-snapshot === */
 
 
 function getNftOwners(url, results) {
